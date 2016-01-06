@@ -1,2 +1,4 @@
-# phone-options
-Notes on getting Android phones to the settings I like
+# phone options
+
+## Chrome
+- Settings > Merge tabs and apps > Off (gives Chrome tabs the close button in the corner again)
